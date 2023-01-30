@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-13T11:04:12 IST" name="Default suite" finished-at="2023-01-13T11:04:52 IST" duration-ms="39662">
+    <groups>
+    </groups>
+    <test started-at="2023-01-13T11:04:12 IST" name="Default test" finished-at="2023-01-13T11:04:52 IST" duration-ms="39662">
+      <class name="POM5_ddfFAILEDTCscrss.SwaglabTEST">
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:POM5_ddfFAILEDTCscrss.SwaglabTEST@5ba3f27a]" started-at="2023-01-13T11:04:12 IST" name="openbrowser" finished-at="2023-01-13T11:04:19 IST" duration-ms="6672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method is-config="true" signature="opentobrowser()[pri:0, instance:POM5_ddfFAILEDTCscrss.SwaglabTEST@5ba3f27a]" started-at="2023-01-13T11:04:19 IST" name="opentobrowser" finished-at="2023-01-13T11:04:26 IST" duration-ms="7380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opentobrowser -->
+        <test-method signature="verifylogo()[pri:0, instance:POM5_ddfFAILEDTCscrss.SwaglabTEST@5ba3f27a]" started-at="2023-01-13T11:04:26 IST" name="verifylogo" finished-at="2023-01-13T11:04:29 IST" duration-ms="3147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogo -->
+        <test-method is-config="true" signature="openmenu(org.testng.ITestResult)[pri:0, instance:POM5_ddfFAILEDTCscrss.SwaglabTEST@5ba3f27a]" started-at="2023-01-13T11:04:29 IST" name="openmenu" finished-at="2023-01-13T11:04:32 IST" duration-ms="3094" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifylogo status=SUCCESS method=SwaglabTEST.verifylogo()[pri:0, instance:POM5_ddfFAILEDTCscrss.SwaglabTEST@5ba3f27a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openmenu -->
+        <test-method is-config="true" signature="Close()[pri:0, instance:POM5_ddfFAILEDTCscrss.SwaglabTEST@5ba3f27a]" started-at="2023-01-13T11:04:32 IST" name="Close" finished-at="2023-01-13T11:04:52 IST" duration-ms="19325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close -->
+      </class> <!-- POM5_ddfFAILEDTCscrss.SwaglabTEST -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
